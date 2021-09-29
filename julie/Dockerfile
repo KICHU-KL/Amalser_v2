@@ -1,6 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/KICHU-KL/Amalser_v2/blob/master/julie/DockerfileWhatsAsenaDuplicated/
+RUN git clone https://github.com/KICHU-KL/Amalser_v2/root/WhatsAsenaDuplicated
+WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit

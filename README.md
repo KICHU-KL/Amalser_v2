@@ -78,8 +78,8 @@ Click WA logo to Join Support Group 👇
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, Lisamwol executives do not accept responsibility.
+By establishing the Lisamwol, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers

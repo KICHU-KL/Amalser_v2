@@ -23,11 +23,6 @@ Project created by <a href="https://github.com/KICHU-KL">KICHU</a> to make it pu
 ## Setup
 <div align="center"> 
 
-
-## Youtube link Watch full video and findout password in this video 👇
-
-https://youtu.be/fd0KPblop-k
-
   ### Simple Method
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KICHU-KL/Lisamwol) 

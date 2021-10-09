@@ -1492,6 +1492,18 @@ Asena.addCommand({pattern: 'sticker spam$', fromMe: true, desc: Lang.ST_DESC }, 
             await message.sendMessage(fs.readFileSync('./output.webp'), MessageType.sticker);
 
             await message.sendMessage(fs.readFileSync('./output.webp'), MessageType.sticker);
+            
+            });
+
+    }
+
+    ffmpeg(locspam)
+
+        .outputOptions(["-y", "-vcodec libwebp", "-lossless 1", "-qscale 1", "-preset default", "-loop 0", "-an", "-vsync 0", "-s 512x512"])
+
+        .save('sticker.webp')
+
+        .on('end', async () => {
 
             await message.sendMessage(fs.readFileSync('./output.webp'), MessageType.sticker);
 

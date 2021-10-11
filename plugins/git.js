@@ -20,11 +20,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Kichu*
 *owner number wa.me/919567321848*
-
-*githublink* : https://github.com/KICHU***/Lisamwol
-*Find the start* ☝️😁
-        
-            𝙇𝙞𝙨𝙖 𝙈𝙬𝙤𝙡 𝘽𝙤𝙩 𝘽𝙮 𝙆𝙞𝙘𝙝𝙪
+*githublink* : https://github.com/KICHU***/lisamwol
+*Find The Stars*☝️😁
+*Use this githublink : https://tinyurl.com/ygph7lgc*
+       *Lisamwol Bot By Kichu*
 `}) 
 
 }));

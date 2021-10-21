@@ -26,9 +26,9 @@ Ktb.addCommand({pattern: 'story ?(.*)', fromMe: false, desc: "Downloads STORY fr
 
     } catch {
 
-    if (type === 'image') return await message.sendMessage(Buffer.from(msg.data), MessageType.image, { caption: "*ᴍᴀᴅᴇ ʙʏ ᴡʜɪᴛᴇ ᴅᴇᴠɪʟ*", quoted: message.data })
+    if (type === 'image') return await message.sendMessage(Buffer.from(msg.data), MessageType.image, { caption: "*ᴍᴀᴅᴇ ʙʏ ʟɪsᴀ🧚‍♂️ᴍᴡᴏʟ*", quoted: message.data })
 
-    if (type === 'video') return await message.sendMessage(Buffer.from(msg.data), MessageType.video, { caption: "*ᴍᴀᴅᴇ ʙʏ ᴡʜɪᴛᴇ ᴅᴇᴠɪʟ*", quoted: message.data })
+    if (type === 'video') return await message.sendMessage(Buffer.from(msg.data), MessageType.video, { caption: "*ᴍᴀᴅᴇ ʙʏ ʟɪsᴀ🧚‍♂️ᴍᴡᴏʟ*", quoted: message.data })
 
     }
 });

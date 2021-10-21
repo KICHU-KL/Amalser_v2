@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Liyamwol by Kichu*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*ʟɪsᴀᴍᴡᴏʟ ʙʏ ᴋɪᴄʜᴜ*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);

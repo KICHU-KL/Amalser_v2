@@ -26,11 +26,11 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
     const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: 'Yes i like bot🥰'}, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: '𝚈𝚎𝚜🥰'}, type: 1},
 
-        {buttonId: 'id2', buttonText: {displayText: 'I Do not like Bot😼'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: '𝙽𝚘😼'}, type: 1},
 
-        {buttonId: 'id3', buttonText: {displayText: 'I Do not use bot😅'}, type: 1}
+        {buttonId: 'id3', buttonText: {displayText: '𝙸 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞😅'}, type: 1}
 
       ]
 
@@ -38,7 +38,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
       const buttonMessage = {
 
-          contentText: "Hi bro do you like bot🙂?",
+          contentText: "𝙷𝚒 𝚋𝚛𝚘 𝚍𝚘 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚖𝚎🙂?",
 
           footerText: 'owner Kichu  ©',
 

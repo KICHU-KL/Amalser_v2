@@ -30,7 +30,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
         {buttonId: 'id2', buttonText: {displayText: '𝙽𝚘😼'}, type: 1},
 
-        {buttonId: 'id3', buttonText: {displayText: '𝙸 𝚍𝚘𝚗𝚘𝚝 𝚔𝚗𝚘𝚠 𝚢𝚘𝚞😅'}, type: 1}
+        {buttonId: 'id3', buttonText: {displayText: '𝚆𝚑𝚘 𝚊𝚛𝚎 𝚢𝚘𝚞😅'}, type: 1}
 
       ]
 

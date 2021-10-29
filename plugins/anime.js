@@ -188,7 +188,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'ᴍᴀᴅᴇ ʙʏ lisa🧚‍♂️ᴍᴡᴏʟ'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'ᴍᴀᴅᴇ ʙʏ ʟɪsᴀ🧚‍♂️ᴍᴡᴏʟ'})
 
     }));
 }
